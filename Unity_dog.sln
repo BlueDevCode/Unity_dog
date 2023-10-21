@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{f08b5c2e-16b2-d4f5-fa1f-261d5342c6fb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI", "UnityEditor.UI.csproj", "{54d4c344-5bd2-8d0c-5566-52fdfbebe095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f08b5c2e-16b2-d4f5-fa1f-261d5342c6fb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f08b5c2e-16b2-d4f5-fa1f-261d5342c6fb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54d4c344-5bd2-8d0c-5566-52fdfbebe095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54d4c344-5bd2-8d0c-5566-52fdfbebe095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
